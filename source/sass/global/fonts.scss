@@ -1,0 +1,102 @@
+/* здесь подключите шрифты*/
+@font-face {
+  src: url("../fonts/gilroy.woff2") format("woff2"), ("../fonts/gilroy.woff") format("woff");
+  font-family: "gilroy";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/gilroyBold.woff2") format("woff2"), ("../fonts/gilroyBold.woff") format("woff");
+  font-family: "gilroy";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/gilroy.woff2") format("woff2");
+  src: url("../fonts/gilroy.woff") format("woff");
+  font-family: "gilroy";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/gilroy.woff2") format("woff2");
+  src: url("../fonts/gilroy.woff") format("woff");
+  font-family: "gilroy";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../../fonts/opensans.woff2") format("woff2"), ("../../fonts/opensans.woff") format("woff");
+  font-family: "open sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/opensansbold.woff2") format("woff2"), ("../fonts/opensansbold.woff") format("woff");
+  font-family: "open sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/opensans.woff2") format("woff2");
+  src: url("../fonts/opensans.woff") format("woff");
+  font-family: "open sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/opensans.woff2") format("woff2");
+  src: url("../fonts/opensansbold.woff") format("woff");
+  font-family: "open sans";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/clash.woff2") format("woff2"), ("../fonts/clash.woff") format("woff");
+  font-family: "clash";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/clashBold.woff2") format("woff2"), ("../fonts/clashBold.woff") format("woff");
+  font-family: "clash";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/clash.woff2") format("woff2");
+  src: url("../fonts/clash.woff") format("woff");
+  font-family: "gclash";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("../fonts/clash.woff2") format("woff2");
+  src: url("../fonts/clash.woff") format("woff");
+  font-family: "clash";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
